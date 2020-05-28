@@ -1,0 +1,6 @@
+C:\Users\Steven\Desktop\epi\c#\c-data-resturant\Resturant.Solutions\obj\Debug\netcoreapp2.2\Resturant.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\epi\c#\c-data-resturant\Resturant.Solutions\obj\Debug\netcoreapp2.2\Resturant.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\epi\c#\c-data-resturant\Resturant.Solutions\obj\Debug\netcoreapp2.2\Resturant.RazorAssemblyInfo.cache
+C:\Users\Steven\Desktop\epi\c#\c-data-resturant\Resturant.Solutions\obj\Debug\netcoreapp2.2\Resturant.RazorAssemblyInfo.cs
+C:\Users\Steven\Desktop\epi\c#\c-data-resturant\Resturant.Solutions\obj\Debug\netcoreapp2.2\Resturant.AssemblyInfoInputs.cache
+C:\Users\Steven\Desktop\epi\c#\c-data-resturant\Resturant.Solutions\obj\Debug\netcoreapp2.2\Resturant.AssemblyInfo.cs
